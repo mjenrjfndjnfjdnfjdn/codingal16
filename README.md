@@ -1,7 +1,7 @@
 <html>
   <head>
 
-<title>Home Work Progress Bar </title>
+<title>Homework Progress Bar </title>
 
 
 <meta charset="utf-8">
